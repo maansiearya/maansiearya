@@ -115,9 +115,9 @@ When I'm not studying or working on projects, you'll probably find me:
 I'm always open to connecting with people interested in
 **data, analytics, AI, and technology.**
 
-[![LinkedIn](https://www.linkedin.com/in/maansie-arya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maansie-arya)
 
-[![GitHub](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maansiearya)
 
 ---
 
